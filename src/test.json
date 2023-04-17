@@ -1,0 +1,11 @@
+{
+    "data": {
+      "user": {
+        "name": "Luke Skywalker",
+        "height": 1.72,
+        "age": 21,
+        "region": "The Republic",
+        "job": "Jedi Master"
+      }
+    }
+  }
