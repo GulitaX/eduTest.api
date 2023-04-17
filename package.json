@@ -1,0 +1,22 @@
+{
+  "name": "edutest.api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GulitaX/eduTest.api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GulitaX/eduTest.api/issues"
+  },
+  "homepage": "https://github.com/GulitaX/eduTest.api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
